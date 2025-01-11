@@ -11,7 +11,7 @@ import Foundation
 struct Naren {
   
   // MARK: - About Me
-  let name: String = "Naren"
+  let name: String = "Naren Krishnaa"
   let role: String = "Senior iOS Developer"
   let experience: Int = 8
   
